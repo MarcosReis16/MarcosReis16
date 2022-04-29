@@ -3,7 +3,7 @@
 - 💻 I'm currently a Junior Software Developer at [@stone-payments](https://github.com/stone-payments).
 - 📚 I'm always studying good programming practices, design patterns, software architecture.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosReis16&count_private=false&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosReis16&count_private=true&show_icons=true&theme=tokyonight)
 
 
 <!--
