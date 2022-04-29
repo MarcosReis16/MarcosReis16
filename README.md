@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm [Marcos](https://www.linkedin.com/in/marcos-reis-727073156/)
+
+- 💻 I'm currently a Junior Software Developer at [@stone-payments](https://github.com/stone-payments).
+- 📚 I'm always studying good programming practices, design patterns, software architecture.
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosReis16&count_private=true&show_icons=true&theme=tokyonight)
+
 
 <!--
 **MarcosReis16/MarcosReis16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
